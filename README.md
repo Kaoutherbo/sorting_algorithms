@@ -1,7 +1,6 @@
 # Sorting Algorithms
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztBz3thnxU2MZwqucC6GD-YnuzDLpXk9weg&usqp=CAU)
-![]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2x8GeiLD2O8kQMi_nu59o69xACZT2MhPuw&usqp=CAU](https://embed-ssl.wistia.com/deliveries/70d6f4e10e2badb5ef394f00c17ad2bc1c14f6e7.jpg))
+![](https://embed-ssl.wistia.com/deliveries/70d6f4e10e2badb5ef394f00c17ad2bc1c14f6e7.jpg)
 
 ### AIM :sunflower:
 - At least four different sorting algorithms
